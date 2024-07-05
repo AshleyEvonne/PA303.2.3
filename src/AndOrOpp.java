@@ -36,8 +36,8 @@ public class AndOrOpp {
         int Sum = x++ + y;
 
         //int PreSum = ++x + y;
-        System.out.println("The value of PreSum is " + Sum);
-        //System.out.println("The value of PostSum is " + PreSum);
+        System.out.println("The value of Sum is " + Sum);
+        //System.out.println("The value of PreSum is " + PreSum);
 
 
     }
